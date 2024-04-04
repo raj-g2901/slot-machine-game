@@ -69,7 +69,7 @@ const spin = () => {
   const symbols = []; // here we'll store all the symbols
   for (const [symbol, count] of Object.entries(SYMBOLS_COUNT)) {
     for (let i = 0; i < count; i++) {
-  const symbols = [];
+  //const symbols = [];
   symbols.push(symbol); //inserting all the symbols from SYMBOLS_COUNT to symbols
     }
   }
