@@ -13,3 +13,12 @@ Give it a spin and let me know how lucky you are 💫 #JavaScript #NodeJS #GameD
 4️⃣ Check for Wins: If the symbols align on any of your chosen lines, you win!
 5️⃣ Collect Your Winnings: Cash and add your winnings to your balance.
 6️⃣ Play Again: Repeat the process and keep playing!
+
+
+To Run:
+
+Clone the repository to your local computer.
+Install node pacakges.
+Go to terminal.
+npm run start.
+Enjoy!
